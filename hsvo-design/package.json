@@ -2,9 +2,5 @@
   "name": "hsvo-design",
   "version": "1.0.0",
   "private": true,
-  "description": "HSVO Design and Software Official Website",
-  "scripts": {
-    "build": "node build_perfect_site.js && node patch_all_pages.js",
-    "start": "node server.js"
-  }
+  "description": "HSVO Design and Software Official Website"
 }
